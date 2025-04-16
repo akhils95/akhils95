@@ -1,8 +1,11 @@
-- Hi, I’m @akhils95
-- I’m professionally working as a java developer
-- I’m have additionally experience with web development, react js, express and also python
-- I’m happy to colaborate on any projects and looking to learn new things always
-- How to reach me : https://akhils95.github.io/Projects-display/
+<h1 align="center">Hi 👋, I'm Akhil Singh Chauhan</h1>
+<h3 align="center">A passionate Java developer from India</h3>
+
+<p align="center">
+<!--   <a href="https://yourwebsite.com" target="_blank">🌐 Portfolio</a> • -->
+  <a href="www.linkedin.com/in/akhilschauhan" target="_blank">💼 LinkedIn</a> •
+  <a href="mailto:akhilchauhan04@gmail.com">📧 Email</a>
+</p>
 
 ### 🛠️ Tech Stack
 
