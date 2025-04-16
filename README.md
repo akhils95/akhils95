@@ -3,7 +3,7 @@
 
 <p align="center">
 <!--   <a href="https://yourwebsite.com" target="_blank">🌐 Portfolio</a> • -->
-  <a href="www.linkedin.com/in/akhilschauhan" target="_blank">💼 LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/akhilschauhan" target="_blank">💼 LinkedIn</a> •
   <a href="mailto:akhilchauhan04@gmail.com">📧 Email</a>
 </p>
 
