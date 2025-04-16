@@ -7,6 +7,17 @@
   <a href="mailto:akhilchauhan04@gmail.com">📧 Email</a>
 </p>
 
+---
+
+### 🧠 About Me
+
+- 🔭 I’m currently working on **Java/Springbbot**
+- 🌱 I’m currently learning **LLM technology**
+- 💬 Ask me about **Java, Spring Boot, Full-Stack Dev, REST APIs**
+- 📫 Reach me at **akhilchauhan04@gmail.com**
+
+---
+
 ### 🛠️ Tech Stack
 
 #### 💻 Backend
@@ -34,3 +45,14 @@
 #### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akhils95&show_icons=true&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhils95&theme=github-dark" alt="Streak Stats" />
+</p>
+
+---
