@@ -60,7 +60,6 @@
 
 ### 🧮 LeetCode Stats
 
-<!--START_SECTION:leetcode-->
-<!--END_SECTION:leetcode-->
+![LeetCode Stats](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=activity)
 
 ---
