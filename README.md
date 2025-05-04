@@ -62,10 +62,10 @@
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=roboto" alt="LeetCode Stats" />
-![Activity](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=activity)
+</p>
+![Activity](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=monospace&ext=activity)
 ![Streak](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=streak)
 ![Ranking](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=ranking)
 ![Solutions](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=solutions)
-</p>
 
 ---
