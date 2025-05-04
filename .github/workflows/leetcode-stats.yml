@@ -1,0 +1,16 @@
+name: LeetCode Stats
+
+on:
+  schedule:
+    - cron: '0 * * * *'  # Runs every hour
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    name: Update README with LeetCode stats
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: abhisheknaiidu/leetcode-stats@master
+        with:
+          LEETCODE_USERNAME: pkwW6PXkuR
