@@ -61,7 +61,11 @@
 ### 🧮 LeetCode Stats
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=roboto&ext=activity&ext=streak&ext=ranking&ext=solutions" alt="LeetCode Stats" />
+  <img src="https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=roboto" alt="LeetCode Stats" />
+![Activity](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=activity)
+![Streak](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=streak)
+![Ranking](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=ranking)
+![Solutions](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=solutions)
 </p>
 
 ---
