@@ -60,6 +60,9 @@
 
 ### 🧮 LeetCode Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=roboto&ext=activity,streak,ranking,solutions" alt="LeetCode Stats" />
+</p>
 ![LeetCode Stats](https://leetcard.jacoblin.cool/pkwW6PXkuR?theme=dark&font=baloo&ext=activity)
 
 ---
