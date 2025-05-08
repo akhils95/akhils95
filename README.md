@@ -53,7 +53,8 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhils95&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com/?user=akhils95&theme=github-dark" alt="Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhils95&theme=github_dark&show_icons=true&hide_border=false" alt="Top Languages" />
+  <img src="https://git-hub-streak-stats.vercel.app?user=akhils95&theme=github_dark" alt="Streak Stats" />
 </p>
 
 ---
