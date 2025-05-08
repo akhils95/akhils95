@@ -53,7 +53,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=akhils95&show_icons=true&theme=github_dark" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhils95&theme=github-dark" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=akhils95&theme=github-dark" alt="Streak Stats" />
 </p>
 
 ---
